@@ -6,12 +6,9 @@
 ## Content
 
 * [HOW-TO](#HOW-TO)
-* [Important dates](#Important-Dates)
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
-* [Project Submission Checklist](#Project-Submission-Checklist)
 * [Video Presentations](#Video-Presentations)
-* [Grading Method](#Grading-Method)
 * [Dataset Description](#Dataset-Description)
 
     - [Actual data](#Actual-data)
@@ -19,7 +16,6 @@
     - [Stations data](#Stations-data)
     - [Misc data](#Misc-data)
 
-* [Hints](#Hints)
 * [References](#References)
 * [FAQ](#FAQ)
 
@@ -27,15 +23,6 @@
 ## HOW-TO
 
 This section intentionally blank. Students must complete it with instructions on how to use the code in their project.
-
-[top](#Content)
-
-----
-## Important Dates
-
-The assignment (clear, well-annotated notebook and/or code; report-like), **with a short, 7-minute video of your presentation** is due on **Sunday May 30th, 23:59 (noon) CEST**.
-
-For the oral defense, we will organize short Q&A discussions of 6 minutes per group. These discussions will be scheduled on **Wednesday June 2nd, 13:00 - 18:00 CEST** - tentatively, actual times to be discussed on a case by case basis.
 
 [top](#Content)
 
@@ -95,26 +82,7 @@ Upon request, and with clear instructions from you, we can help prepare the data
 [top](#Content)
 
 ----
-## Project Submission Checklist
 
-* Project and 7 minute (max) video are due before midnight of May 30th.
-
-* The final assignment is to be done in **groups of 4 or 5**, remember to update your group member list if needed.
-
-* All projects must be submitted on Renku, as a group project.
-
-* Project must contain `final` in the name, or you can fork this [final-assignment](https://dslab2021-renku.epfl.ch/projects/com490-pub/final-assignment) project.
-
-* Provide instructions on how to test your project in the **HOW TO** section of the `README.md` file. Include a link to your video presentation.
-
-* Project sizes, including history, must not exceed 100Mb. Use git-lfs for your larger data sets, or keep as much data as possible on HDFS.
-
-**Note:** use `git lfs migrate import --fixup --include-ref=refs/heads/master` if you accidentally push a large data set on gitlab.  See [using git lfs responsibly](https://renku.readthedocs.io/en/latest/user/data.html) in the renku documentation.
-Since you will be rewriting history, you will need to unprotect your branch in gitlab and force `git push -f`, and coordinate with your peers to make sure that you are all working off the same history.
-
-[top](#Content)
-
-----
 ## Video Presentations
 
 Instruction for video presentations:
@@ -131,31 +99,6 @@ Please, **DO NOT** load the video as part of your project, send a video embedded
 
 [top](#Content)
 
----- 
-## Grading Method
-
-At the end of the term you will provide a 7-minute video, in which each member of the project presents a part of the project.
-
-After reviewing your videos, we will invite each group for a 6 mins Q&A. Before the Q&A, we will validate your method on a list of pre-selected departure arrival points, and times of day.
-
-Think of yourselves as a startup trying to sell your solution to the board of a public transport
-company. Your video is your elevator pitch. It must be short and convincing. In it you describe the viability
-of the following aspects:
-
-1. Method used to model the public transport network
-2. Method used to create the predictive models
-3. Route planning algorithm
-4. Validation method
-
-Your grades will be based on the code, videos and Q&A, taking into account:
-
-1. Clarity and conciseness of the video presentation, code and Q&A
-2. Team work, formulation and decomposition of the problem into smaller tasks between team members
-3. Originality of the solution design, analytics, and presentation
-4. Functional quality of the implementation (does it work?)
-5. Explanation of the pro's and con's / shortcomings of the proposed solution
-
-[top](#Content)
 
 ----
 ## Dataset Description
