@@ -250,22 +250,7 @@ source of historical weather data.
 [top](#Content)
 
 ----
-## Hints
 
-Before you get started, we offer a few hints:
-
-- Reserve some time to Google-up the state of the art before implementing. There is a substantial amount of work on this topic. Look for *time-dependent*, or *time-varying networks*, and *stochastic route planning under uncertainty*. You should also look in the references provided below.
-- You should already be acquainted with the data.
-However, as you learn more about the state of the art, spend time to better understand your data.
-Anticipate what can and cannot be done from what is available to you, and plan your design strategy accordingly. Do not hesitate to complete the proposed data sources with your own if necessary.
-- Start small with a simple working solution and improve on it.
-In a first version, assume that all trains and buses are always sharp on time.
-Focus on creating a sane collaborative environment that you can use to develop and test your work in team as it evolves.
-Next, work-out the risk-aware solution gradually - start with a simple predictive model and improve it. In addition you can test your algorithm on selected pairs of stops before generalizing to the full public transport network under consideration.
-
-[top](#Content)
-
-----
 ## References
 
 We offer a list of useful references for those of you who want to push it further or learn more about it:
