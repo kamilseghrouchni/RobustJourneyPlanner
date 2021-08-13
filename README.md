@@ -19,12 +19,7 @@
 * [References](#References)
 * [FAQ](#FAQ)
 
-----
-## HOW-TO
 
-This section intentionally blank. Students must complete it with instructions on how to use the code in their project.
-
-[top](#Content)
 
 ----
 ## Problem Motivation
