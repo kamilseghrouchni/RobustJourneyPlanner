@@ -7,7 +7,6 @@
 
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
-* [Video Presentations](#Video-Presentations)
 * [Dataset Description](#Dataset-Description)
 
     - [Actual data](#Actual-data)
@@ -73,23 +72,7 @@ Solving this problem accurately can be difficult. You are allowed a few **simpli
 
 Upon request, and with clear instructions from you, we can help prepare the data in a form that is easier for you to process (within the limits of our ability, and time availability). In which case the data will be accessible to all.
 
-[top](#Content)
 
-----
-
-## Video Presentations
-
-Instruction for video presentations:
-
-1. Use Zoom (or other tools) to record your group video.
-
-2. Save the video as an mp4 file.
-
-3. Upload your video to moodle under `Final assignment - video presentation`.
-
-4. Include the link to the video in the **HOW TO** section, at the top of the `README.md` file of your final assignment
-
-Please, **DO NOT** load the video as part of your project, send a video embedded in a PowerPoint presentations, or use any format other than mp4 videos. We must be able to stream the videos in our web browsers.
 
 [top](#Content)
 
