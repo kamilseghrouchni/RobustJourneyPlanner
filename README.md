@@ -5,7 +5,6 @@
 ----
 ## Content
 
-* [HOW-TO](#HOW-TO)
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
 * [Video Presentations](#Video-Presentations)
